@@ -1,0 +1,8 @@
+KFC	Burger-200,000	Fries-100,000
+Junkies	Crispy-250,000	pepsi-30,000
+vv	jj-343
+gg	tt-333
+gg	tt-333
+gg	tt-333	tt-333
+gg	tt-333	tt-333
+zz	rr-444
